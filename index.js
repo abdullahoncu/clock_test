@@ -9,10 +9,7 @@ time = a.getHours() + ':' + a.getMinutes() + ':' + a.getSeconds();
 document.getElementById("time").innerHTML = time + " <br>on " + date;
 }, 1000);
 
-console.log("created by Anshul Soni");
-console.log("visit my website- anshulsoni.netlify.app");
+console.log("created by Abdullah Öncü");
+console.log("visit my website- abdullahoncu.netlify.app");
 
 
-//don't copy my source code
-//thanks for watching my repos
-// please follow me on github
